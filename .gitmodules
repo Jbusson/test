@@ -1,0 +1,3 @@
+[submodule "test_submodules"]
+	path = test_submodules
+	url = https://github.com/Jbusson/test_submodules.git
